@@ -3,4 +3,4 @@ steps:
     command: "script.sh"
     parallelism: 5
     agents:
-      queue: CI
+      queue: "CI"
